@@ -1,11 +1,10 @@
 # Site
 name: 'Про ChromeOs'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Все о операционной системе ChromeOs'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'dev@pro-chromeos'
 mailchimp-list: ''
 
 include: ["_pages"]
@@ -44,7 +43,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:

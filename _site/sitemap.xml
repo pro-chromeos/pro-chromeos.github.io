@@ -77,6 +77,10 @@
 <lastmod>2019-09-27T23:13:30+02:00</lastmod>
 </url>
 <url>
+<loc>http://100.115.92.194:4000/one-more-test/</loc>
+<lastmod>2019-09-28T00:18:17+02:00</lastmod>
+</url>
+<url>
 <loc>http://100.115.92.194:4000/404/</loc>
 </url>
 <url>
@@ -90,9 +94,6 @@
 </url>
 <url>
 <loc>http://100.115.92.194:4000/authors-list.html</loc>
-</url>
-<url>
-<loc>http://100.115.92.194:4000/buy-me-a-coffee.html</loc>
 </url>
 <url>
 <loc>http://100.115.92.194:4000/categories.html</loc>
