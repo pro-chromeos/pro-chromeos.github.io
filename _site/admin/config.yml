@@ -32,4 +32,4 @@ collections:
       - {label: "Layout", name: "layout", widget: "string", default: "default"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string", default: "/test.html"}
-      
+      - {label: "Body", name: "body", widget: "markdown"}
