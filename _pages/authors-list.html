@@ -1,33 +1,14 @@
 ---
-title: "Авторы"
-layout: default
-permalink: "/authors-list.html"
+title: "О сайте"
+layout: page
+permalink: "/about.html"
 ---
 
 <div class="container">
-<h4 class="font-weight-bold spanborder"><span>{{page.title}}</span></h4>
     <div class="row gap-y listrecent listrecent listauthor">
-    {% for author in site.authors %}
-        <div class="col-lg-6 mb-4">
-            <div class="p-4 border rounded">
-            <div class="row">
-            <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{site.baseurl}}/{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
-            <div class="col-md-9">
-            <a href="{{site.baseurl}}/author-{{ author[1].name | slugify }}">
-            <h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
-            <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
-            <div class="excerpt">{{ author[1].bio }}</div>
-            </a>
-            <div class="icon-block mt-3 d-flex justify-content-between">  
-            <div>
-            <a target="_blank" href="{{ author[1].twitter }}"><i class="fab fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
-            <a target="_blank" href="{{ author[1].site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-        </div>
-    {% endfor %}
+        Приветствую всех в моем небольшом блоге полностью посвещенному операционной системе ChromeOs и всему что с ней связанное. Мы познакомимся с системой Сhrome OS и рассмотрим её возможности используя гибридный Сhromebook-трансформер. Проверим эту операционную систему для разных сценариев и попытаемся понять для чего она подходит. Так же мы будем следить за развивитем системы, пробовать экспериметнальные функций, а так же рассматривать всяческие приложения для хромбуков.
+        
+        <a href="https://vk.com/pro_chromeos">Группа ВК</a>
+
     </div>
 </div>
