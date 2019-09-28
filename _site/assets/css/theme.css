@@ -796,4 +796,10 @@ div.a2a_full_footer {display:none;}
 		 height:280px !Important;
 	 }
  }
- 
+ img + em {
+    margin-top: -1.8em;
+    text-align: center;
+    color: #999;
+    display: block;
+    font-size: 0.8em;
+}

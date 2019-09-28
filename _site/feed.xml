@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://100.115.92.194:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://100.115.92.194:4000/" rel="alternate" type="text/html" /><updated>2019-09-28T13:49:54+02:00</updated><id>http://100.115.92.194:4000/feed.xml</id><title type="html">Про ChromeOs</title><subtitle>Все о операционной системе ChromeOs</subtitle><entry><title type="html">Встречаем Chrome OS 77 - что нового</title><link href="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/" rel="alternate" type="text/html" title="Встречаем Chrome OS 77 - что нового" /><published>2019-09-27T00:00:00+02:00</published><updated>2019-09-27T00:00:00+02:00</updated><id>http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo</id><content type="html" xml:base="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/">&lt;p&gt;На днях для большинства хромбуков стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://100.115.92.194:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://100.115.92.194:4000/" rel="alternate" type="text/html" /><updated>2019-09-28T19:07:55+02:00</updated><id>http://100.115.92.194:4000/feed.xml</id><title type="html">Про ChromeOs</title><subtitle>Все о операционной системе ChromeOs</subtitle><entry><title type="html">Встречаем Chrome OS 77 - что нового</title><link href="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/" rel="alternate" type="text/html" title="Встречаем Chrome OS 77 - что нового" /><published>2019-09-27T00:00:00+02:00</published><updated>2019-09-27T00:00:00+02:00</updated><id>http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo</id><content type="html" xml:base="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/">&lt;p&gt;На днях для &lt;a href=&quot;https://cros-updates-serving.appspot.com/&quot;&gt;большинства хромбуков&lt;/a&gt; стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/obnovlenie-chromeos-77.png&quot; alt=&quot;Настройки - обновление Chrome OS до версий 77&quot; title=&quot;Настройки - обновление Chrome OS до версий 77&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/obnovlenie-chromeos-77.png&quot; alt=&quot;Настройки - обновление Chrome OS до версий 77&quot; title=&quot;Настройки - обновление Chrome OS до версий 77&quot; /&gt;
+&lt;em&gt;Настройки - обновление Chrome OS до версий 77&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Настройки - обновление Chrome OS до версий 77&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Сразу после обновления и перезагрузки нас встречает страничка “What’s new” с описанием главных изменений. Несмотря на то, что русский язык в системе указан в качестве основного, все изменения описаны на английском. То есть пока что Google не переводит такие вещи для русскоязычной аудиторий, что само по себе немного обидно.&lt;/p&gt;
+&lt;p&gt;Сразу после обновления и перезагрузки нас встречает страничка &lt;a href=&quot;https://www.google.com/chromebook/whatsnew/embedded/?version=77&amp;amp;tags=nami-signed-mp-v5keys&quot;&gt;“What’s new”&lt;/a&gt; с описанием главных изменений. Несмотря на то, что русский язык в системе указан в качестве основного, все изменения описаны на английском. То есть пока что Google не переводит такие вещи для русскоязычной аудиторий, что само по себе немного обидно.&lt;/p&gt;
 
 &lt;p&gt;Ну да ладно, Google делает акцент на следующих 5 фичах:&lt;/p&gt;
 
 &lt;h3 id=&quot;1-Поддержка-google-assistent&quot;&gt;1. Поддержка Google Assistent&lt;/h3&gt;
 
-&lt;p&gt;Многие знакомы с приложением ассистента на Android, примерно тоже стало доступным и в Chrome OS. Но, к сожалению, ассистент не доступен для русского языка, поэтому потестировать его на русском у нас не получиться.&lt;/p&gt;
+&lt;p&gt;Многие знакомы с приложением ассистента на Android, примерно тоже стало доступным и в Chrome OS. Но, к сожалению, ассистент &lt;a href=&quot;https://9to5google.com/2019/09/12/google-assistant-chromebooks-15-countries/&quot;&gt;не доступен&lt;/a&gt; для русского языка, поэтому потестировать его на русском у нас не получиться.&lt;/p&gt;
 
 &lt;p&gt;В сети пишут, что достаточно переключить системный язык на английский, чтобы активировать ассистента и попробовать его возможности.&lt;/p&gt;
 
@@ -41,13 +40,13 @@
 &lt;em&gt;Новые возможности управления системой Chrome OS для людей с ограниченными возможностями&lt;/em&gt;&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><category term="chromeos" /><summary type="html">На днях для большинства хромбуков стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://100.115.92.194:4000/uploads/chromeos-77-release/podderzhka-google-assiatant-chromeos77.png" /></entry><entry><title type="html">Виртуальные рабочие столы в Chrome OS</title><link href="http://100.115.92.194:4000/virtualnie-rabochie-stoly-v-chromeos-copy/" rel="alternate" type="text/html" title="Виртуальные рабочие столы в Chrome OS" /><published>2019-09-26T00:00:00+02:00</published><updated>2019-09-26T00:00:00+02:00</updated><id>http://100.115.92.194:4000/virtualnie-rabochie-stoly-v-chromeos%20copy</id><content type="html" xml:base="http://100.115.92.194:4000/virtualnie-rabochie-stoly-v-chromeos-copy/">&lt;p&gt;Возможность иметь и переключаться между несколькими рабочими столами доступна во всех известных операционных системах - Linux, MacOs и Windows. Аналогичная возможность с недавних пор стала доступной и в Chrome OS. Правда, по умолчанию функция Virtual Desks отключена в 77 версий операционной системы. Поэтому сегодня я предлагаю активировать и попробовать её.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/virtual-desks/rabochive-stoli-v-chromeos.png&quot; alt=&quot;Виртуальные рабочие столы в Chrome OS&quot; title=&quot;Виртуальные рабочие столы в Chrome OS&quot; /&gt;
-Виртуальные рабочие столы в Chrome OS&lt;/p&gt;
+&lt;em&gt;Виртуальные рабочие столы в Chrome OS&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;Как-включить-виртуальные-рабочие-столы&quot;&gt;Как включить виртуальные рабочие столы&lt;/h2&gt;
 &lt;p&gt;Для того чтобы активировать рабочие столы, открываем браузер и переходим на страничку &lt;a href=&quot;chrome://flags&quot;&gt;chrome://flags&lt;/a&gt;. В поиске находим функцию под названием “Enable Virtual Desks”, включаем её (“Enable”) и нажимаем на кнопку перезагрузки для активаций.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/virtual-desks/aktivaciya-virtualnih-rabochih-stolov.png&quot; alt=&quot;Активация функций виртуальных столов на странице chrome://flags&quot; title=&quot;Активация функций виртуальных столов на странице chrome://flags&quot; /&gt;
-Активация функций виртуальных столов на странице chrome://flags&lt;/p&gt;
+&lt;em&gt;Активация функций виртуальных столов на странице chrome://flags&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Чтобы создать новый рабочий стол необходимо перейти к виду с обзором всех приложений. Сделать это можно нажав на кнопку “[]]]” (“Overview”) или смахнув тремя пальцами вниз на тачпаде хромбука. В верхней части экране будут видны все созданные рабочие столы, а в правом верхнем углу доступна кнопка для создания нового стола. Там же можно переключиться на другой рабочий стол, кликнув по нему.&lt;/p&gt;
 
@@ -60,7 +59,7 @@
 
 &lt;p&gt;На сегодняшний день Google активно продвигает такие приложения, так как многое из того что можно установить из Chrome Store по сути и является PWA “обвернутым” в Chrome-приложение или расширение.&lt;/p&gt;
 
-&lt;p&gt;В Chrome OS 76 можно легко определить поддержку PWA на сайте, а так же установить его. Для этого достаточно перейти на страничку с прогрессивным приложением и обратить внимание на правую часть адресной строки. Здесь можно увидеть иконку для быстрой установки (например, лента новостей HackerNews). После установки ярлык приложения появиться в лаунчере, а при его запуске оно откроется уже не в браузере, а в отдельном окне как полноценное приложение.&lt;/p&gt;
+&lt;p&gt;В Chrome OS 76 можно легко определить поддержку PWA на сайте, а так же установить его. Для этого достаточно перейти на страничку с прогрессивным приложением и обратить внимание на правую часть адресной строки. Здесь можно увидеть иконку для быстрой установки (например, лента новостей &lt;a href=&quot;https://hackernews.io/&quot;&gt;HackerNews&lt;/a&gt;). После установки ярлык приложения появиться в лаунчере, а при его запуске оно откроется уже не в браузере, а в отдельном окне как полноценное приложение.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/types-of-chromebook-apps/hackernews-pwa-app.png&quot; alt=&quot;Страница HackerNews с утановкой PWA&quot; title=&quot;Страница HackerNews с утановкой PWA&quot; /&gt;
 &lt;em&gt;Страница HackerNews с утановкой PWA&lt;/em&gt;&lt;/p&gt;
@@ -101,7 +100,7 @@
 &lt;em&gt;Виртуальная клавиатура с немецкой раскладкой (редактор Simple Note)&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;Внешний-вид&quot;&gt;Внешний вид&lt;/h2&gt;
-&lt;p&gt;Внешне виртуальная клавиатура очень напоминает Gboard из Android. Возможно это и есть тот же самый проект адаптированный под Chrome OS, но что касается функционала, то здесь есть пара нюансов на которых я бы хотел остановиться. Дело в том, что некоторые из фич доступных в Android здесь попросту не работают. Другие работают, но только с латинской раскладкой. А в некоторых случаях клавиатура ведет себя попросту по-другому, к чему я все еще не могу привыкнуть.&lt;/p&gt;
+&lt;p&gt;Внешне виртуальная клавиатура очень напоминает &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&amp;amp;hl=ru&quot;&gt;Gboard&lt;/a&gt; из Android. Возможно это и есть тот же самый проект адаптированный под Chrome OS, но что касается функционала, то здесь есть пара нюансов на которых я бы хотел остановиться. Дело в том, что некоторые из фич доступных в Android здесь попросту не работают. Другие работают, но только с латинской раскладкой. А в некоторых случаях клавиатура ведет себя попросту по-другому, к чему я все еще не могу привыкнуть.&lt;/p&gt;
 
 &lt;p&gt;Теперь конкретно по-пунктам:&lt;/p&gt;
 
@@ -138,7 +137,7 @@
 
 &lt;h3 id=&quot;1-Возможность-установки-и-выбора-альтернативной-клавиатуры&quot;&gt;1. Возможность установки и выбора альтернативной клавиатуры:&lt;/h3&gt;
 
-&lt;p&gt;Насколько я понял основную клавиатуру заменить нельзя, по-крайней мере я не нашел подходящей опций в настройках. Тем не менее я попробовал установить SwiftKey Keyboard из Play Store, но активировать её у меня не вышло.&lt;/p&gt;
+&lt;p&gt;Насколько я понял основную клавиатуру заменить нельзя, по-крайней мере я не нашел подходящей опций в настройках. Тем не менее я попробовал установить &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.touchtype.swiftkey&amp;amp;hl=ru&quot;&gt;SwiftKey Keyboard&lt;/a&gt; из Play Store, но активировать её у меня не вышло.&lt;/p&gt;
 
 &lt;h3 id=&quot;2-Темы-для-клавиатуры&quot;&gt;2. Темы для клавиатуры&lt;/h3&gt;
 
@@ -146,24 +145,35 @@
 
 &lt;p&gt;&lt;em&gt;PS: В виде дисклеймера хочу упомянуть о своем опыте использования Chrome OS составляющего около одной недели. Поэтому если я что-то упустил или в чем-то не разобрался, то буду рад узнать об этом в комментариях :-)&lt;/em&gt;&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">В этой серий небольших статей я хотел бы рассмотреть разные составляющие, а так же функций Chrome OS 76 и при этом поделиться своими впечатлениями. Начнем с обзора виртуальной клавиатуры, которой пользуются владельцы планшетов и ноутбуков-трансформеров на основе Chrome OS.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://100.115.92.194:4000/uploads/virtual-keyboard/rusklaya-raskladka-klaviaturi-chromeos.png" /></entry><entry><title type="html">Бесплатные 100 ГБ в Google Drive при покупке Chromebook</title><link href="http://100.115.92.194:4000/besplatnie-100gb-pri-pokupke-chromebook/" rel="alternate" type="text/html" title="Бесплатные 100 ГБ в Google Drive при покупке Chromebook" /><published>2019-09-23T23:13:30+02:00</published><updated>2019-09-23T23:13:30+02:00</updated><id>http://100.115.92.194:4000/besplatnie-100gb-pri-pokupke-chromebook</id><content type="html" xml:base="http://100.115.92.194:4000/besplatnie-100gb-pri-pokupke-chromebook/">&lt;p&gt;Чего я не нашел в коробке со своим Chromebook’ом, так это упоминания о возможной “халяве” и скидках. Например, если зарегистрировать ваш новый ноутбук на специальной гугловской страничке, то можно получить 100Гб дискового пространства в виде бесплатной подписки Google One сроком на год.&lt;/p&gt;
 
-&lt;p&gt;Как получить бесплатные 100 гб
-Переходим на страничку с предложениями для владельцев Chromebook’ов - Chromebook Offers и нажимаем на синюю кнопку Redeem.&lt;/p&gt;
+&lt;h2 id=&quot;Как-получить-бесплатные-100-гб&quot;&gt;Как получить бесплатные 100 гб&lt;/h2&gt;
 
-&lt;p&gt;Страница с предложениями и скидками для владельцев Chromebook
-Следуем дальнейшим инструкциям и в итоге вам на почту должно будет придти письмо с ссылкой для подтверждения и активаций подписки.&lt;/p&gt;
+&lt;p&gt;Переходим на страничку с предложениями для владельцев Chromebook’ов - &lt;a href=&quot;https://www.google.com/chromebook/offers/&quot;&gt;Chromebook Offers&lt;/a&gt; и нажимаем на синюю кнопку Redeem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/free-100gb-google-drive/google-offers-chromebook.jpg&quot; alt=&quot;Страница с предложениями и скидками для владельцев Chromebook&quot; title=&quot;Страница с предложениями и скидками для владельцев Chromebook&quot; /&gt;
+&lt;em&gt;Страница с предложениями и скидками для владельцев Chromebook&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Следуем дальнейшим инструкциям и в итоге вам на почту должно будет придти письмо с ссылкой для подтверждения и активаций подписки.&lt;/p&gt;
 
 &lt;p&gt;Подтверждение и активация бесплатной годовой подписки Google One
 Если после этого перейти на страничку Google One, то можно будет увидеть что размер дискового пространства увеличился на 100 ГБ. Так же можете зайти в приложение файлы или Google Drive и проверить размер доступного места там.&lt;/p&gt;
 
-&lt;p&gt;Размер облачного хранилища в приложений - Файлы
-Кроме 100гб акций на страничке Chromebook Offers доступны еще три предложения в виде пожизненной подписки для Enlight Pixaloop, приложения Noteshelf и 50% скидки для INKredible Pro. Второе у меня активировать не получилось из-за ошибки вроде “Не доступно в Вашей стране”, а остальные приложения я не пробовал. Возможно в будущем мы увидим еще какие-то интересные предложения или скидки.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/free-100gb-google-drive/aktivaciya-google-one.jpg&quot; alt=&quot;Письмо с ссылкой для активаций&quot; title=&quot;Письмо с ссылкой для активаций&quot; /&gt;
+&lt;em&gt;Письмо с ссылкой для активаций&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;И последнее, возможно у вас уже возник вопрос, а что случиться с моими файлами после окончания бесплатной годовой подписки? Ответ можно найти на страничке помощи Google:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/free-100gb-google-drive/100gb-diskogo-prostranstva-google-one.jpg&quot; alt=&quot;Размер облачного хранилища в приложений - Файлы&quot; title=&quot;Приложение Файлы&quot; /&gt;
+&lt;em&gt;Размер облачного хранилища в приложений - Файлы&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Кроме 100гб акций на страничке &lt;a href=&quot;https://www.google.com/chromebook/offers/&quot;&gt;Chromebook Offers&lt;/a&gt; доступны еще три предложения в виде пожизненной подписки для Enlight Pixaloop, приложения Noteshelf и 50% скидки для INKredible Pro. Второе у меня активировать не получилось из-за ошибки вроде “Не доступно в Вашей стране”, а остальные приложения я не пробовал. Возможно в будущем мы увидим еще какие-то интересные предложения или скидки.&lt;/p&gt;
+
+&lt;p&gt;И последнее, возможно у вас уже возник вопрос, а что случиться с моими файлами после окончания бесплатной годовой подписки? Ответ можно найти &lt;a href=&quot;https://support.google.com/drive/answer/2736362?hl=ru&quot;&gt;на страничке помощи Google&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/free-100gb-google-drive/google-one-obzor.jpg&quot; alt=&quot;Информация о доступном пространстве на сайта Google One&quot; title=&quot;Информация о доступном пространстве на сайта Google One&quot; /&gt;
+&lt;em&gt;Информация о доступном пространстве на сайта Google One&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Если подписка на тарифный план отменена или срок ее действия истек, хранилище для каждого из продуктов будет уменьшено до объема, предоставляемого бесплатно. Вам по-прежнему будет доступно все, что хранится на Диске, в Gmail и Google Фото, однако вы не сможете создавать и добавлять файлы.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><category term="google drive" /><summary type="html">Чего я не нашел в коробке со своим Chromebook’ом, так это упоминания о возможной “халяве” и скидках. Например, если зарегистрировать ваш новый ноутбук на специальной гугловской страничке, то можно получить 100Гб дискового пространства в виде бесплатной подписки Google One сроком на год.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://100.115.92.194:4000/uploads/free-100gb-google-drive/100gb-diskogo-prostranstva-google-one.jpg" /></entry><entry><title type="html">Покупка Chromebook или почему я выбрал Chrome OS</title><link href="http://100.115.92.194:4000/pokupka-chromebook-s-chromeos/" rel="alternate" type="text/html" title="Покупка Chromebook или почему я выбрал Chrome OS" /><published>2019-09-22T23:13:30+02:00</published><updated>2019-09-22T23:13:30+02:00</updated><id>http://100.115.92.194:4000/pokupka-chromebook-s-chromeos</id><content type="html" xml:base="http://100.115.92.194:4000/pokupka-chromebook-s-chromeos/">&lt;p&gt;С недавних пор я стал владельцем ноутбука-планшета HP Chromebook x360 14 работающего на операционной системе от Google - Chrome OS. Скажу сразу, первые впечатления от устройства и операционной системы позитивные, поэтому я доволен приобретением. Далее пару слов о выборе Chrome OS и о будущем этого канала.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/why-chromebook/hp-chromebook-x360-14-4.jpeg&quot; alt=&quot;HP Chromebook x360 14&quot; title=&quot;HP Chromebook x360 14&quot; /&gt;
-HP Chromebook x360 14&lt;/p&gt;
+&lt;em&gt;Хромбук-транформер HP Chromebook x360 14&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;Выбор-устройства-с-chrome-os&quot;&gt;Выбор устройства с Chrome OS&lt;/h2&gt;
 &lt;p&gt;Изначально я приглядывался к планшету в большей степени для “диванного” использования, т.е. для потребления контента - чтение, просмотр YouTube, браузинг. Так же планшет рассматривался мною и для блогинга. Это значит что хотелось устройства с большим touch-дисплеем и с физической клавиатурой для быстрого и удобного набора текста.&lt;/p&gt;
@@ -175,15 +185,13 @@ HP Chromebook x360 14&lt;/p&gt;
 &lt;p&gt;В итоге, стоит признать, что в выборе устройства в большей степени победило любопытство и интерес к новой операционной системе. Хотя в конце-концов я понимал что в случае с Chrome OS речь идет о “расширенной” версий браузера с парочкой приложений для доступа к файловой системой. Но, возможность запускать Android-приложения, а теперь и поддержка Linux, в свежей версий ОС, делают хромбуки сразу намного интереснее. Добавим сюда еще и форм-фактор самого устройства - это touch-экран с полноценной подсвеченной клавиатурой, а так же возможность откидывания экрана на 360 градусов. В итоге мы получаем ноутбук-планшет с Android, Chrome OS (мультиоконность, а-ля Samsung DeX) и Linux - неплохо, не правда ли? Вот и я не смог устоять.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/why-chromebook/hp-chromebook-x360-14-5.jpg&quot; alt=&quot;Первый запуск Chrome OS&quot; title=&quot;Первый запуск Chrome OS&quot; /&gt;
-Первый запуск Chrome OS&lt;/p&gt;
+&lt;em&gt;Первый запуск Chrome OS&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Напоследок, еще несколько фотографий ноутбука:&lt;/p&gt;
+&lt;h2 id=&quot;Что-будет-дальше-и-в-чем-заключается-идея-этого-сайта&quot;&gt;Что будет дальше и в чем заключается идея этого сайта&lt;/h2&gt;
+&lt;p&gt;Так как на просторах рунета пока что не так много материалов на тему Chromebook’ов и Chrome OS, то я предлагаю вместе знакомиться с возможностями этой системы. Рассмотреть базовый функционал, знакомиться с полезными сторонними приложениями. А так же в целом рассмотреть возможные сценарий использования таких устройств с системой Chrome OS. И конечно же, будем наблюдать за развитием системы, ждать новых фич и пробовать их в экспериментальном режиме.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/why-chromebook/hp-chromebook-x360-14-1.jpg&quot; alt=&quot;&quot; title=&quot;HP Chromebook x360 14&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/why-chromebook/hp-chromebook-x360-14-2.jpeg&quot; alt=&quot;&quot; title=&quot;HP Chromebook x360 14&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../uploads/why-chromebook/hp-chromebook-x360-14-3.jpeg&quot; alt=&quot;&quot; title=&quot;HP Chromebook x360 14&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;Что-будет-дальше-и-в-чем-заключается-идея-этого-сайта&quot;&gt;Что будет дальше и в чем заключается идея этого сайта&lt;/h2&gt;
-&lt;p&gt;Так как на просторах рунета пока что не так много материалов на тему Chromebook’ов и Chrome OS, то я предлагаю вместе знакомиться с возможностями этой системы. Рассмотреть базовый функционал, знакомиться с полезными сторонними приложениями. А так же в целом рассмотреть возможные сценарий использования таких устройств с системой Chrome OS. И конечно же, будем наблюдать за развитием системы, ждать новых фич и пробовать их в экспериментальном режиме.&lt;/p&gt;</content><author><name>sal</name></author><category term="sticky" /><summary type="html">С недавних пор я стал владельцем ноутбука-планшета HP Chromebook x360 14 работающего на операционной системе от Google - Chrome OS. Скажу сразу, первые впечатления от устройства и операционной системы позитивные, поэтому я доволен приобретением. Далее пару слов о выборе Chrome OS и о будущем этого канала.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://100.115.92.194:4000/uploads/why-chromebook/hp-chromebook-x360-14-4.jpeg" /></entry></feed>
+&lt;p&gt;&lt;img src=&quot;../uploads/why-chromebook/hp-chromebook-x360-14-3.jpg&quot; alt=&quot;&quot; title=&quot;HP Chromebook x360 14&quot; /&gt;&lt;/p&gt;</content><author><name>sal</name></author><category term="sticky" /><summary type="html">С недавних пор я стал владельцем ноутбука-планшета HP Chromebook x360 14 работающего на операционной системе от Google - Chrome OS. Скажу сразу, первые впечатления от устройства и операционной системы позитивные, поэтому я доволен приобретением. Далее пару слов о выборе Chrome OS и о будущем этого канала.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://100.115.92.194:4000/uploads/why-chromebook/hp-chromebook-x360-14-4.jpeg" /></entry></feed>
