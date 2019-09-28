@@ -1,7 +1,3 @@
-/*!
- * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
- */
-
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
@@ -10,9 +6,9 @@ body {
 	margin-top:30px;
 	min-height:400px;
 }
-.remove-site-content-margin {
+/* .remove-site-content-margin {
 	margin-top:-30px;
-}
+} */
 img {
 	max-width:100%;
 }
@@ -190,6 +186,7 @@ a.text-dark:hover {
 .navbar {
 	transition:top 0.2s ease-in-out;
 	font-weight:400;
+	background: #e8f3ec !important;
 }
 .navbar .highlight .nav-link {
 	color:#03a87c !important;

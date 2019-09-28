@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://100.115.92.194:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://100.115.92.194:4000/" rel="alternate" type="text/html" /><updated>2019-09-28T19:07:55+02:00</updated><id>http://100.115.92.194:4000/feed.xml</id><title type="html">Про ChromeOs</title><subtitle>Все о операционной системе ChromeOs</subtitle><entry><title type="html">Встречаем Chrome OS 77 - что нового</title><link href="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/" rel="alternate" type="text/html" title="Встречаем Chrome OS 77 - что нового" /><published>2019-09-27T00:00:00+02:00</published><updated>2019-09-27T00:00:00+02:00</updated><id>http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo</id><content type="html" xml:base="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/">&lt;p&gt;На днях для &lt;a href=&quot;https://cros-updates-serving.appspot.com/&quot;&gt;большинства хромбуков&lt;/a&gt; стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://100.115.92.194:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://100.115.92.194:4000/" rel="alternate" type="text/html" /><updated>2019-09-28T19:36:51+02:00</updated><id>http://100.115.92.194:4000/feed.xml</id><title type="html">Про ChromeOs</title><subtitle>Все о операционной системе ChromeOs</subtitle><entry><title type="html">Встречаем Chrome OS 77 - что нового</title><link href="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/" rel="alternate" type="text/html" title="Встречаем Chrome OS 77 - что нового" /><published>2019-09-27T00:00:00+02:00</published><updated>2019-09-27T00:00:00+02:00</updated><id>http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo</id><content type="html" xml:base="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/">&lt;p&gt;На днях для &lt;a href=&quot;https://cros-updates-serving.appspot.com/&quot;&gt;большинства хромбуков&lt;/a&gt; стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/obnovlenie-chromeos-77.png&quot; alt=&quot;Настройки - обновление Chrome OS до версий 77&quot; title=&quot;Настройки - обновление Chrome OS до версий 77&quot; /&gt;
 &lt;em&gt;Настройки - обновление Chrome OS до версий 77&lt;/em&gt;&lt;/p&gt;
@@ -22,7 +22,9 @@
 
 &lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/multimedia-kontrol.png&quot; alt=&quot;Управление воспроизведением медиа-файлов в Chrome OS 77&quot; title=&quot;Управление воспроизведением медиа-файлов в Chrome OS 77&quot; /&gt;
 &lt;em&gt;Управление воспроизведением медиа-файлов в Chrome OS 77&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;3-family-link---если-совсем-коротко-то-здесь-речь-идет-о-новых-возможностях-в-функций-родительского-контроля&quot;&gt;3. Family Link - если совсем коротко, то здесь речь идет о новых возможностях в функций родительского контроля.&lt;/h3&gt;
+
+&lt;h3 id=&quot;3-family-link&quot;&gt;3. Family Link&lt;/h3&gt;
+&lt;p&gt;Если совсем коротко, то здесь речь идет о новых возможностях в функций родительского контроля.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/uluchshenaya-funkciya-roditelskogo-kontrolya.png&quot; alt=&quot;Улучшенный родительский контроль&quot; title=&quot;Улучшенный родительский контроль&quot; /&gt;
 &lt;em&gt;Управление лимитом времени в функционале родительского контроля Chrome OS 77&lt;/em&gt;&lt;/p&gt;
@@ -31,7 +33,8 @@
 
 &lt;p&gt;Добавили кнопочку для быстрого доступа к галерее из самого приложения “Фото”. В целом был переработан весь дизайн приложения, а так же добавлены новые режимы съемки, например, фото квадратной формы.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/novii-dizain-foto-prilozheniya.png&quot; alt=&quot;Обновленное приложение фото камеры&quot; title=&quot;Обновленное приложение фото камеры&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/novii-dizain-foto-prilozheniya.png&quot; alt=&quot;Обновленное приложение фото камеры&quot; title=&quot;Обновленное приложение фото камеры&quot; /&gt;
+&lt;em&gt;Обновленное приложение фото камеры&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;5-automatic-clicks&quot;&gt;5. Automatic Clicks&lt;/h3&gt;
 &lt;p&gt;Новые возможности для работы с Chrome OS для людей с ограниченными возможностями. Очень приятно что Google уделяет внимание такому функционалу и добавляет подходящие элементы управления системой.&lt;/p&gt;
