@@ -4,6 +4,7 @@ description: 'Все о операционной системе ChromeOs'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
+url: 'https://pro-chromeos.ru'
 email: 'dev@pro-chromeos.ru'
 mailchimp-list: ''
 
