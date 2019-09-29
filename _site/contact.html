@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="theme-color" content="#e8f3ec" />
     <title>Обратная свзяь | Про ChromeOs</title>
 
     <!-- Begin Jekyll SEO tag v2.5.0 -->
@@ -37,23 +38,56 @@
     <!-- Theme Stylesheet -->
     <link rel="stylesheet" href="/assets/css/theme.css">
 
+    <link rel="apple-touch-icon" href="/assets/images/pwa.png">
+
     <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
-    <!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
-
-    <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
-
+    <link rel="manifest" href="manifest.json">
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148889780-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148889780-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-        gtag('config', 'UA-148889780-1');
+    gtag('config', 'UA-148889780-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+        m[i].l = 1 * new Date(); k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(55528591, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true
+    });
+</script>
+<!-- /Yandex.Metrika counter -->
+
+    <script type="text/javascript">
+        if ("serviceWorker" in navigator) {
+            if (navigator.serviceWorker.controller) {
+                console.log("An active service worker found, no need to register");
+            } else {
+                // Register the service worker
+                navigator.serviceWorker
+                    .register("/sw.js", {
+                        scope: "./"
+                    })
+                    .then(function (reg) {
+                        console.log("Service worker has been registered for scope: " + reg.scope);
+                    });
+            }
+        }
     </script>
+
 </head>
 
 <body class="">
@@ -66,20 +100,19 @@
                 aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="navbar-collapse collapse" id="navbarColor02" style="">
+            <div class="navbar-collapse collapse" id="navbarColor02">
                 <ul class="navbar-nav mr-auto d-flex align-items-center">
                     <!--  Replace menu links here -->
 
 <li class="nav-item">
-<a class="nav-link" href="/index.html">Главная</a>
+    <a class="nav-link" href="/index.html">Главная</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/about.html">О сайте</a>
+    <a class="nav-link" href="/about.html">О сайте</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/contact.html">Контакт</a>
+    <a class="nav-link" href="/contact.html">Контакт</a>
 </li>
-
                 </ul>
                 <ul class="navbar-nav ml-auto d-flex align-items-center">
                     <form class="bd-search hidden-sm-down">
