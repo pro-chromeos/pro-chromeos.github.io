@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://100.115.92.194:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://100.115.92.194:4000/" rel="alternate" type="text/html" /><updated>2019-09-29T11:59:56+02:00</updated><id>http://100.115.92.194:4000/feed.xml</id><title type="html">Про ChromeOs</title><subtitle>Все о операционной системе ChromeOs</subtitle><entry><title type="html">Встречаем Chrome OS 77 - что нового</title><link href="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/" rel="alternate" type="text/html" title="Встречаем Chrome OS 77 - что нового" /><published>2019-09-27T00:00:00+02:00</published><updated>2019-09-27T00:00:00+02:00</updated><id>http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo</id><content type="html" xml:base="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo/">&lt;p&gt;На днях для &lt;a href=&quot;https://cros-updates-serving.appspot.com/&quot;&gt;большинства хромбуков&lt;/a&gt; стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://100.115.92.194:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://100.115.92.194:4000/" rel="alternate" type="text/html" /><updated>2019-09-29T20:49:37+02:00</updated><id>http://100.115.92.194:4000/feed.xml</id><title type="html">Про ChromeOs</title><subtitle>Все о операционной системе ChromeOs</subtitle><entry><title type="html">Создание скриншотов и запись экрана в Chrome OS</title><link href="http://100.115.92.194:4000/sozdanie-skrinshotov-i-screencastov-v-chromeos/" rel="alternate" type="text/html" title="Создание скриншотов и запись экрана в Chrome OS" /><published>2019-09-29T00:00:00+02:00</published><updated>2019-09-29T00:00:00+02:00</updated><id>http://100.115.92.194:4000/sozdanie-skrinshotov-i-screencastov-v-chromeos</id><content type="html" xml:base="http://100.115.92.194:4000/sozdanie-skrinshotov-i-screencastov-v-chromeos/">&lt;p&gt;При повседневной работе с современными девайсами сегодня не обойтись без возможности создания скриншотов и записи скринкастов. Давайте разберемся с этой темой и рассмотрим, как нативные функций, так и сторонние приложения.&lt;/p&gt;
+
+&lt;h2 id=&quot;Создание-скриншотов-стандартными-средствами&quot;&gt;Создание скриншотов стандартными средствами&lt;/h2&gt;
+
+&lt;p&gt;Как и в любой другой современной операционной системе в ChromeOs имеется встроенная функция для создания скриншотов с поддержкой трех разных видов снимков экрана. Если у вас хромбук с физической клавиатурой, то доступны следующие комбинаций клавиш:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Весь экран - Ctrl + “[ ]&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;”&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Выбранное окно (Ctrl + Alt + “[ ]&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;”)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Свободная область экрана (Ctrl + Shift + “[ ]&lt;/td&gt;
+          &lt;td&gt; &lt;/td&gt;
+          &lt;td&gt;”)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;../uploads/screenshots-chromeos/klaviatura-chromebook-hp-x360.png&quot; alt=&quot;Физическая клавиатура HP Chromebook x360&quot; title=&quot;Физическая клавиатура HP Chromebook x360&quot; /&gt;
+&lt;em&gt;Физическая клавиатура HP Chromebook x360 14&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;В режиме планшета скриншот можно создать с помощью одновременного нажатия кнопки включения и кнопки увеличения или уменьшения громкости. При этом создается снимок всего экрана и это единственный возможный вариант в режиме планшета. Новый скриншот сохраняется в папку Downloads (“Скачанные файлы”).&lt;/p&gt;
+
+&lt;p&gt;Чего не хватает в стандартном приложений для просмотра фото, так это возможности создания аннотаций на скриншотах и изображениях в целом. Для этих целей я бы посоветовал дополнение &lt;a href=&quot;https://chrome.google.com/webstore/detail/monosnap/lhgadannddhdpkfhfjjgcpdjhpmjhkfm&quot;&gt;Monosnap&lt;/a&gt;, которое я уже длительное время использую в macOs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../uploads/screenshots-chromeos/screenshot-notification.png&quot; alt=&quot;Оповещение о созданий скриншота&quot; title=&quot;Оповещение о созданий скриншота&quot; /&gt;
+&lt;em&gt;Оповещение о созданий скриншота&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;Запись-экрана&quot;&gt;Запись экрана&lt;/h2&gt;
+
+&lt;p&gt;В случае с записью видео не обойтись без сторонних приложений, так как ChromeOs не предоставляет нам такой возможности в базовом функционале. Существует целый ряд дополнений для хрома позволяющие записывать скринкасты.&lt;/p&gt;
+
+&lt;p&gt;Для скринкастов мне больше всего мне понравилось дополнение Screencastify. Во-первых можно настроить так что все видео сразу будут сохраняться в ваш Google Drive. Во-вторых есть поддержка фронтовой камеры, которая будет отображать видео например в правом нижнем углу. Небольшой минус бесплатной версий Screencastify так это ограничение в 50 видео в месяц, но если вы не так часто записываете скринкасты, то этого вполне должно хватить.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../uploads/screenshots-chromeos/screencastify.png&quot; alt=&quot;Дополнение Screencastify&quot; title=&quot;Дополнение Screencastify&quot; /&gt;
+&lt;em&gt;Дополнение Screencastify&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Напоследок еще несколько дополнений для создания скриншотов и записи экрана:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb&quot;&gt;Loom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj&quot;&gt;Nimbus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/screencast-o-matic/ofhomjgaaamjpmjogmkglfojkdlabekg&quot;&gt;Screencast-o-matic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/scrnli-screenshot-tool-an/ialiedlpfknneamnbemcgmaboleiccdd&quot;&gt;Scrn.li&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><category term="featured" /><category term="chromeos" /><category term="tutorials" /><summary type="html">При повседневной работе с современными девайсами сегодня не обойтись без возможности создания скриншотов и записи скринкастов. Давайте разберемся с этой темой и рассмотрим, как нативные функций, так и сторонние приложения.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://100.115.92.194:4000/uploads/screenshots-chromeos/screencastify.png" /></entry><entry><title type="html">Встречаем Chrome OS 77 - что нового</title><link href="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo-copy/" rel="alternate" type="text/html" title="Встречаем Chrome OS 77 - что нового" /><published>2019-09-27T00:00:00+02:00</published><updated>2019-09-27T00:00:00+02:00</updated><id>http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo%20copy</id><content type="html" xml:base="http://100.115.92.194:4000/vstrechaem-chromeos-77-chto-novogo-copy/">&lt;p&gt;На днях для &lt;a href=&quot;https://cros-updates-serving.appspot.com/&quot;&gt;большинства хромбуков&lt;/a&gt; стала доступной новая версия операционной системы Chrome OS 77. Предлагаю обновиться, посмотреть на изменения, заглянуть в Changelog и ответить на главный вопрос - что нового в версий 77.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../uploads/chromeos-77-release/obnovlenie-chromeos-77.png&quot; alt=&quot;Настройки - обновление Chrome OS до версий 77&quot; title=&quot;Настройки - обновление Chrome OS до версий 77&quot; /&gt;
 &lt;em&gt;Настройки - обновление Chrome OS до версий 77&lt;/em&gt;&lt;/p&gt;
