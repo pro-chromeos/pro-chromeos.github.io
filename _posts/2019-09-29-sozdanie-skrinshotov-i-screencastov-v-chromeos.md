@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Создание скриншотов и запись экрана в Chrome OS"
-categories: [Инструкций]
+categories: [Инструкции]
 image: "../uploads/screenshots-chromeos/screencastify.png"
 tags: [featured, chromeos, tutorials]
 ---
