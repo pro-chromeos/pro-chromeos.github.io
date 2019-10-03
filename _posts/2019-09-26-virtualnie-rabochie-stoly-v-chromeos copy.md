@@ -3,7 +3,7 @@ layout: post
 title: Виртуальные рабочие столы в Chrome OS
 categories:
 - ChromeOs
-image: "../uploads/virtual-desks/rabochive-stoli-v-chromeos.png"
+image: "../uploads/virtual-desks/rabochive-stoli-v-chromeos.jpg"
 tags:
 - featured
 - chromeos
@@ -11,7 +11,7 @@ tags:
 ---
 Возможность иметь и переключаться между несколькими рабочими столами доступна во всех известных операционных системах - Linux, MacOs и Windows. Аналогичная возможность с недавних пор стала доступной и в Chrome OS. Правда, по умолчанию функция Virtual Desks отключена в 77 версий операционной системы. Поэтому сегодня я предлагаю активировать и попробовать её.
 
-![Виртуальные рабочие столы в Chrome OS](../uploads/virtual-desks/rabochive-stoli-v-chromeos.png "Виртуальные рабочие столы в Chrome OS")
+![Виртуальные рабочие столы в Chrome OS](../uploads/virtual-desks/rabochive-stoli-v-chromeos.jpg "Виртуальные рабочие столы в Chrome OS")
 _Виртуальные рабочие столы в Chrome OS_
 
 ## Как включить виртуальные рабочие столы
