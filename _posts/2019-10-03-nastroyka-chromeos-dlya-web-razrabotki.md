@@ -3,7 +3,7 @@ layout: post
 title: Настройка Chrome OS для веб-разработки
 categories:
 - Linux
-image: '../uploads/setup-web-dev/angular-app-chromeos-thumb.jpg'
+image: '../uploads/setup-web-dev/angular-app-chromeos.jpg'
 tags:
 - sticky
 - linux
