@@ -15,4 +15,4 @@ tags:
 ![Lock Screen Multimedia Widgdet](../uploads/multimedia-widget-chromeos.jpg "Пример с мультимедиа виджетом для управления контента с Youtube")
 *Мультимедиа виджет с воспроизведением медиа-контента с Youtube*
 
-Для активаций виджета необходимо перейти на страницу `chrome://flags` и активировать функцию [Lock screen media controls](chrome://flags/#lock-screen-media-controls).
+Для активаций виджета необходимо перейти на страницу `chrome://flags` и активировать функцию Lock screen media controls (`chrome://flags/#lock-screen-media-controls`).
