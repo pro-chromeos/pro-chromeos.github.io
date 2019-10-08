@@ -3,7 +3,7 @@ layout: post
 title: Виджет для управления мультимедиа с экрана блокировки (Dev-канал)
 categories:
 - ChromeOs
-image: "/uploads/mediacontrol-mini.jpg"
+image: "../uploads/mediacontrol-mini.jpg"
 tags:
 - featured
 
@@ -12,6 +12,7 @@ tags:
 
 Сценарий использования данной функций очевиден. Аналогично, как и на Android или iOS-устройствах, виджет позволит управлять музыкой напрямую с заблокированного устройства без надобности его разблокировки.
 
-![](/uploads/Screenshot 2019-10-08 at 23.26.00.jpg)
+![Lock Screen Multimedia Widgdet](../uploads/Screenshot 2019-10-08 at 23.26.00.jpg "Пример с мультимедиа виджетом для управления контента с Youtube")
+*Пример с мультимедиа виджетом для управления контента с Youtube*
 
 Для активаций виджета необходимо перейти на страницу `chrome://flags` и активировать функцию [Lock screen media controls](chrome://flags/#lock-screen-media-controls).
