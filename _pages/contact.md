@@ -3,6 +3,7 @@ title: "Обратная свзяь"
 permalink: "/contact.html"
 ---
 
-Скоро, а пока что буду рад Вашим отзывам, идеям в комментариях :-)
+Буду рад любым вопросам, отзывам, идеям, новостям в телеграм канале :-)
 <br />
-<a href="https://t.me/pro_chromeos" target="_blank">Канал о Chrome Os и Chromebook'ов для общения в Telegram'e</a>
+<img src="/assets/telegram.png" alt="Канал для обсуждения в телеграме" />
+<a href="https://t.me/pro_chromeos" target="_blank">Telegram-канал о Chrome OS и хромбуках, заходите ;-) </a>
