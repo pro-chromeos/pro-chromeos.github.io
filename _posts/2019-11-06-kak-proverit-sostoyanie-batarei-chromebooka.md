@@ -3,10 +3,11 @@ layout: post
 title: Проверка состояния батареи хромбука
 categories:
   - ChromeOs
+  - Инструкции
 image: "../uploads/battery-test/informaciya-o-batarei-chromebooka.jpg"
 tags:
-  - featured
   - terminal
+  - tutorials
 ---
 
 Одной из полезных функций встроенного терминала Chrome OS является команда для проверки состояния батареи. Если вы собираетесь покупать поддержанный хромбук, то возможно это одна из тех вещей на которую стоит обратить внимание.

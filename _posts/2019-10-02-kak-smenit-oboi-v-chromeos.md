@@ -5,7 +5,6 @@ categories:
 - Инструкции
 image: "../uploads/change-wallpapers/wallpapers-app.png"
 tags:
-- featured
 - chromeos
 - tutorials
 

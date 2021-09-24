@@ -5,7 +5,8 @@ categories:
 - ChromeOs
 image: "../uploads/mediacontrol-mini.jpg"
 tags:
-- featured
+- notifications
+- chromeos
 
 ---
 Одной из новых функций доступных на [нестабильной](https://pro-chromeos.ru/perehod-na-dev-kanal/) ветке Chrome OS 79 является виджет для управления мультимедиа контентом с экрана блокировки устройства.

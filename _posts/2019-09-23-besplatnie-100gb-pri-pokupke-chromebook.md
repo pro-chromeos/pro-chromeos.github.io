@@ -6,7 +6,6 @@ image: "../uploads/free-100gb-google-drive/100gb-diskogo-prostranstva-google-one
 categories:
 - ChromeOs
 tags:
-- featured
 - google drive
 
 ---
