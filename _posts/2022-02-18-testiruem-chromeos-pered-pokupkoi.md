@@ -25,7 +25,7 @@ C релизом Chrome OS Flex сборка Сloudready прекратит св
 
 ## Устанавливаем систему
 
-![Процесс установки системы](../uploads/ustanovka-chrome-os-flex/recovery-utility.png "Процесс установки системы")
+![Процесс установки системы](../uploads/ustanovka-chrome-os-flex/ustanovka.png "Процесс установки системы")
 _Установка Chrome OS Flex_
 
 Первым делом находим USB-флешку на минимум 8гб и устанавливаем дополнение [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/jndclpdbaamdhonoechobihbbiimdgai/related) в браузер, которое позволит нам создать загрузочное устройство.
