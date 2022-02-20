@@ -11,6 +11,9 @@ tags:
 
 На днях Google опубликовала официальную сборку "новой" ОС под названием [Chrome OS Flex](https://chromeenterprise.google/os/chromeosflex/), которую можно установить на практически любой компьютер. Я считаю это подходящим вариантом для тех, кто не может принять решение о покупке хромбука и перед этим хотел бы попробовать систему в деле.
 
+![Chrome OS Flex на стареньком Sony Vaio](../uploads/ustanovka-chrome-os-flex/chrome-os-flex-na-sony-vaio.jpg "Chrome OS Flex на стареньком Sony Vaio")
+_Chrome OS Flex v100 на Sony Vaio_
+
 ## Что скрывается за Chrome OS Flex?
 
 До этого времени официальной сборки доступной для ["безкостыльной"](https://github.com/sebanc/brunch) установки Chrome OS на ПК не было. Единственным таким решением был продукт под названием [Cloudready](https://www.neverware.com/blogcontent/2022/01/26/cloudready-v962-released) от компании Neverware, которая уже с 2020 года принадлежит Google.
